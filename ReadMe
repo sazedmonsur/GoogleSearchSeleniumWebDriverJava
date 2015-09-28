@@ -1,0 +1,3 @@
+Create a simple test automation framework for the following test case:
+
+Go to google, find “mantis”, from search results open a link to mantisBT (sourceforge.net/projects/mantisbt/), navigate to Files, then click “mantis stable”. On the page with versions and download statistics log (write to console) the version number that has the most numbers of downloading (please do not use sorting buttons). Assert in test that this version is 1.2.19.
